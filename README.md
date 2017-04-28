@@ -71,10 +71,13 @@ class File(db.Model):
 </code></pre>
 
 * 应用上下文
+
 <p>
 暂时没用到
 </p>
+
 * 信号机制
+
 <p>
 Flask-Login
 <br>
