@@ -7,7 +7,7 @@ flask总结
 * Werkzeug: 一个包含WSGI、路由、调试的工具集
 * Itsdangerous: 基于Django签名模块的签名实现
 
-###基本功能：
+### 基本功能：
 
 * Web服务器
 <pre><code>
@@ -39,9 +39,9 @@ def index():
 <!doctype html>
 <title>Hello from Flask</title>
 {% if name %}
-  <h1>Hello {{ name }}!</h1>
+  Hello {{ name }}!
 {% else %}
-  <h1>Hello World!</h1>
+  Hello World!
 {% endif %}
 </code></pre>
 
