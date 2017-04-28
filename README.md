@@ -1,4 +1,3 @@
-# a_summary_of_flask
 flask总结
 =============
 微框架思想-Flask 旨在保持核心简单而易于扩展。
@@ -23,7 +22,9 @@ if __name__ == '__main__':
 </code></pre>
 
 * 路由功能与HTTP方法
+<pre><code>
 @app.route('/index', methods=['GET','POST'])
+</code></pre>
 
 * 视图
 <pre><code>
@@ -74,5 +75,11 @@ class File(db.Model):
 
 * 信号机制
 Flask-Login
+<br>
+登录的时候需要用login信号简化后台代码
+<br>
 Flask-security
+<br>
+权限设置会用到
+<br>
 
