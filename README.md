@@ -71,11 +71,11 @@ class File(db.Model):
 </code></pre>
 
 * 应用上下文
-<br>
+<p>
 暂时没用到
-
+</p>
 * 信号机制
-<br>
+<p>
 Flask-Login
 <br>
 登录的时候需要用login信号简化后台代码
@@ -84,4 +84,4 @@ Flask-security
 <br>
 权限设置会用到
 <br>
-
+</p>
