@@ -71,9 +71,11 @@ class File(db.Model):
 </code></pre>
 
 * 应用上下文
+<br>
 暂时没用到
 
 * 信号机制
+<br>
 Flask-Login
 <br>
 登录的时候需要用login信号简化后台代码
