@@ -88,3 +88,9 @@ Flask-security
 权限设置会用到
 <br>
 </p>
+
+***
+
+参考链接：[Flask官方文档][href]
+参考书：《Python Web开发实战》
+[href]: http://docs.jinkan.org/docs/flask/]
