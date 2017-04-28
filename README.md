@@ -91,6 +91,6 @@ Flask-security
 
 ***
 
-### 参考链接：[Flask官方文档](http://docs.jinkan.org/docs/flask/])
+### 参考链接：[Flask官方文档](http://docs.jinkan.org/docs/flask/)
 
 ### 参考书：《Python Web开发实战》
